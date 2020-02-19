@@ -1,6 +1,6 @@
 <div id="intro2" class="etage">
     <div class="textBlock">
-        <h1>La Coalition climat</h1>
+        <h1 style="text-align: center;">La Coalition climat</h1>
         <p></p>
 
         <h1>le pacte</h1>
