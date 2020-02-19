@@ -28,15 +28,17 @@ li{
 }
 
 .global{
-    padding:0rem;
+    /*padding:0rem;*/
     margin: 0rem;
     width: 100%;
     flex-direction: column;
-    background-image: url(../img/back.png);
+    /*background-image: url(../img/back.png);*/
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-color: #f9f7f5;
+    /*background-color: #f9f7f5;*/
+    background-color: whitesmoke;
     align-items: center;
+    padding: 0 12.5%;
 }
 
 body{
