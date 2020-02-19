@@ -102,25 +102,25 @@ a{
 }
 
 #container{
-    width:75%;
-    /*width:100%;*/
+    width:100%;
     max-width: 80rem;
     flex-direction: column;
     /*padding: 0.2rem;*/
     align-items: stretch;
     display: none;
-    padding: 0.2rem 12.5%;
+    padding: 0;
 }
 
 .etage{
     margin: 0.2rem;
     margin-top: 1rem;
     background-color: white;
-    padding: 0.5rem;
+    /*padding: 0.5rem;*/
     /*box-shadow: 0rem 0.1rem 0.2rem 0.1rem #999999;*/
     flex-direction: row;
     justify-content: space-around;
     flex-wrap: wrap;
+    padding: 0.5rem 12.5%;
 }
 
 #boxes{
