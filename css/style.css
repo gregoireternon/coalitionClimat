@@ -103,7 +103,7 @@ a{
 
 #container{
     width:100%;
-    max-width: 80rem;
+    /*max-width: 80rem;*/
     flex-direction: column;
     /*padding: 0.2rem;*/
     align-items: stretch;
@@ -112,7 +112,8 @@ a{
 }
 
 .etage{
-    margin: 0.2rem;
+    /*margin: 0.2rem;*/
+    margin:0;
     margin-top: 1rem;
     background-color: white;
     /*padding: 0.5rem;*/
