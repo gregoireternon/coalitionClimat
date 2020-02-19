@@ -112,7 +112,7 @@ a{
     margin-top: 1rem;
     background-color: white;
     padding: 0.5rem;
-    box-shadow: 0rem 0.1rem 0.2rem 0.1rem #999999;
+    /*box-shadow: 0rem 0.1rem 0.2rem 0.1rem #999999;*/
     flex-direction: row;
     justify-content: space-around;
     flex-wrap: wrap;
@@ -127,7 +127,7 @@ a{
 }
 .box{
     margin: 10px;
-    box-shadow: 0rem 0.1rem 0.2rem 0.1rem #999999;
+    /*box-shadow: 0rem 0.1rem 0.2rem 0.1rem #999999;*/
 }
 
 img.button{
