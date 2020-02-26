@@ -3,7 +3,7 @@
         <h1 style="text-align: center;">La Coalition climat</h1>
         <p>La Coalition Climat de Rouen est le regroupement d&apos;une trentaine d&rsquor;associations, de collectifs citoyens et d&apos;organisations syndicales. Son objectif est de mutualiser, de relayer et d&rsquor;organiser les mobilisations citoyennes contre le d&eacute;r&egrave;glement climatique sur le territoire de la M&eacute;tropole rouennaise.</p>
 
-<p>Elle contribue aux échanges et réflexions pour que la question de l'urgence climatique soit prise en charge par tou.te.s.</p>
+<p>Elle contribue aux &eacute;changes et r&eacute;flexions pour que la question de l&apos;urgence climatique soit prise en charge par tou.te.s.</p>
 
         <h1>le pacte</h1>
         <p>Nous souhaitons interpeller l&rsquor;ensemble des candidat.e.s aux &eacute;lections municipales et m&eacute;tropolitaine de mars 2020 dans les 71 communes face &agrave; l&rsquor;urgence &eacute;cologique et sociale. </p>
