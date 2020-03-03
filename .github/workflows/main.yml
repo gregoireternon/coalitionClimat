@@ -16,3 +16,5 @@ jobs:
         FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
         REMOTE_DIR: /www/coalitionClimat
         ARGS: --exclude=.git --exclude=.github
+      with: 
+        git-ftp-args: --insecure
