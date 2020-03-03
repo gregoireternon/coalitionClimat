@@ -11,7 +11,7 @@ jobs:
     - name: FTP-Deploy-Action
       uses: SamKirkland/FTP-Deploy-Action@2.0.0
       env:
-        FTP_SERVER: sftp://ftp.cluster029.hosting.ovh.net
+        FTP_SERVER: sftp://ftp.cluster029.hosting.ovh.net:22
         FTP_USERNAME: ${{ secrets.FTP_USERNAME }}
         FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
         REMOTE_DIR: /www/coalitionClimat
