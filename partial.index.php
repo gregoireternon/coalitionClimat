@@ -9,7 +9,7 @@
         <p>Nous souhaitons interpeller l&rsquor;ensemble des candidat.e.s aux &eacute;lections municipales et m&eacute;tropolitaine de mars 2020 dans les 71 communes face &agrave; l&rsquor;urgence &eacute;cologique et sociale. </p>
         <p>Nous demandons donc &agrave; chaque liste de se prononcer concr&egrave;tement sur l&rsquor;ensemble des points suivants.</p>
         
-        <a href="lien">Consulter le document</a>
+        <a href="https://drive.google.com/open?id=18O51Zz5Ar7O6MCwLLyZYzOiP1AEIM8B5">Consulter le document</a>
 
         <h1>R&eacute;ponse des candidats</h1>
 
@@ -342,7 +342,7 @@
         </ul>
         <h2>Sotteville-l&egrave;s-Rouen</h2>
         <ul>
-            <li>Ensemble pour Sotteville</li><a href="lien"></a>
+            <li>Ensemble pour Sotteville:</li><a href="https://drive.google.com/open?id=1lGYJYdsDiSONuZuMI3rWOIxLH2chNa6S">Réponse de la liste</a>
             <li>Inventons Sotteville</li>
             <li>Rassembl&eacute;e, Sotteville avance</li>
             <li>Rassemblement pour Sotteville</li>
