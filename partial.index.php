@@ -262,7 +262,7 @@
         <ul>
             <li>Au coeur de Rouen</li>
             <li>Ensemble pour Rouen </li><a href="lien"></a>
-            <li>Fiers de Rouen</li>
+            <li>Fiers de Rouen</li><a href="https://drive.google.com/open?id=1hvTvuesWVxIvKQmsUNJRilghjJh6rk8h">Réponse de la liste</a>
             <li>Nos vies, pas leurs profits. Rouen en lutte</li>
             <li>R&eacute;enchantons Rouen</li>
             <li>Rouen Autrement</li>
